@@ -1,0 +1,21 @@
+{
+  "name": "node-parser2",
+  "version": "1.2.3",
+  "description": "Nodejs, Test Parsing Engines, history of Russia, crime",
+  "main": "index.js",
+  "scripts": {
+    "xaoc": "node engines/xaoc.js"
+  },
+  "keywords": [
+    "testing parser-engines",
+    "unirest - work is bad",
+    "https://www.npmjs.com/package/unirest",
+    "puppeteer - work is good"
+  ],
+  "author": "cobrascript@yandex.ru",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "puppeteer": "^25.12.0"
+  }
+}
