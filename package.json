@@ -1,21 +1,24 @@
 {
   "name": "node-parser2",
   "version": "1.2.3",
-  "description": "Nodejs, Test Parsing Engines, history of Russia, crime",
+  "description": "Nodejs, test of parsers & node-cron, history of Russia, crime",
   "main": "index.js",
   "scripts": {
-    "xaoc": "node engines/xaoc.js"
+    "xaoc": "node engines/xaoc.js",
+    "cron": "node cron/cron.js"
   },
   "keywords": [
     "testing parser-engines",
     "unirest - work is bad",
     "https://www.npmjs.com/package/unirest",
-    "puppeteer - work is good"
+    "puppeteer - work is good",
+    "node-cron"
   ],
   "author": "cobrascript@yandex.ru",
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+    "node-cron": "^4.6.0",
     "puppeteer": "^25.12.0"
   }
 }
