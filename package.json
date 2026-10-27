@@ -5,14 +5,18 @@
   "main": "index.js",
   "scripts": {
     "xaoc": "node engines/xaoc.js",
-    "cron": "node cron/cron.js"
+    "cron": "node cron/cron.js",
+    "log": "node cron/logWinston.js",
+    "ft": "node cron/forTest.js"
   },
   "keywords": [
     "testing parser-engines",
     "unirest - work is bad",
     "https://www.npmjs.com/package/unirest",
     "puppeteer - work is good",
-    "node-cron"
+    "node-cron",
+    "winston",
+    "custom-logger"
   ],
   "author": "cobrascript@yandex.ru",
   "license": "ISC",
@@ -20,5 +24,8 @@
   "dependencies": {
     "node-cron": "^4.6.0",
     "puppeteer": "^25.12.0"
+  },
+  "devDependencies": {
+    "winston": "^3.19.0"
   }
 }

@@ -1,9 +1,33 @@
 [
   {
+    "mag": "5.5",
+    "region": "Off East Coast of Kamchatka",
+    "time": "2026-10-24 20:34:57.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.9",
+    "region": "Northern Xinjiang, China",
+    "time": "2026-10-24 08:29:20.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Southwestern Siberia, Russia",
+    "time": "2026-10-23 22:24:16.7Z",
+    "depth": "10*"
+  },
+  {
     "mag": "4.9",
     "region": "Kuril Islands",
     "time": "2026-10-22 21:09:58.7Z",
     "depth": "48*"
+  },
+  {
+    "mag": "4.9",
+    "region": "Kuril Islands",
+    "time": "2026-10-22 21:09:58.5Z",
+    "depth": "46*"
   },
   {
     "mag": "4.9",

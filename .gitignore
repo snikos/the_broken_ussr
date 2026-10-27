@@ -1,4 +1,5 @@
 node_modules
 cron
 engines
+files/geofon/logs
 .env

@@ -1,5 +1,437 @@
 [
   {
+    "mag": "5.0",
+    "region": "Flores Region, Indonesia",
+    "time": "2026-10-26 04:53:45.1Z",
+    "depth": "35*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Flores Region, Indonesia",
+    "time": "2026-10-26 04:53:42.3Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-26 04:53:36.7Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.9",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-26 04:53:36.5Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.9",
+    "region": "Timor Region",
+    "time": "2026-10-26 03:59:19.7Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.9",
+    "region": "Timor Region",
+    "time": "2026-10-26 03:59:19.6Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.9",
+    "region": "Bonin Islands, Japan Region",
+    "time": "2026-10-25 22:16:29.1Z",
+    "depth": "496*"
+  },
+  {
+    "mag": "5.1",
+    "region": "Bonin Islands, Japan Region",
+    "time": "2026-10-25 22:14:17.0Z",
+    "depth": "492*"
+  },
+  {
+    "mag": "4.6",
+    "region": "Xizang",
+    "time": "2026-10-25 22:01:38.0Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-25 20:30:42.0Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.8",
+    "region": "Andreanof Islands, Aleutian Islands",
+    "time": "2026-10-25 17:49:58.3Z",
+    "depth": "154*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Afghanistan-Tajikistan Border Region",
+    "time": "2026-10-25 17:44:24.3Z",
+    "depth": "116*"
+  },
+  {
+    "mag": "4.8",
+    "region": "Southern Peru",
+    "time": "2026-10-25 17:11:51.4Z",
+    "depth": "73*"
+  },
+  {
+    "mag": "4.5",
+    "region": "Xizang",
+    "time": "2026-10-25 16:46:49.4Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.6",
+    "region": "Chihuahua, Mexico",
+    "time": "2026-10-25 13:22:41.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "6.0",
+    "region": "Xizang",
+    "time": "2026-10-25 11:25:59.6Z",
+    "depth": "19*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Xizang",
+    "time": "2026-10-25 11:24:14.7Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.5",
+    "region": "New Guinea, Papua New Guinea",
+    "time": "2026-10-25 10:30:24.2Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.5",
+    "region": "New Guinea, Papua New Guinea",
+    "time": "2026-10-25 10:30:21.1Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.4",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-25 08:41:00.5Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.7",
+    "region": "Ionian Sea",
+    "time": "2026-10-25 05:15:45.1Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.4",
+    "region": "Papua New Guinea Region",
+    "time": "2026-10-25 03:29:04.9Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Bonin Islands, Japan Region",
+    "time": "2026-10-25 02:36:33.8Z",
+    "depth": "511*"
+  },
+  {
+    "mag": "6.1",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-25 02:24:01.8Z",
+    "depth": "123*"
+  },
+  {
+    "mag": "6.5",
+    "region": "Bonin Islands, Japan Region",
+    "time": "2026-10-25 02:09:24.6Z",
+    "depth": "501*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-25 02:06:08.0Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.4",
+    "region": "Kyushu, Japan",
+    "time": "2026-10-24 23:59:37.5Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 23:44:57.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 23:39:05.9Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.8",
+    "region": "West Papua Region, Indonesia",
+    "time": "2026-10-24 21:41:52.6Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.5",
+    "region": "Off East Coast of Kamchatka",
+    "time": "2026-10-24 20:34:57.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "6.1",
+    "region": "Bouvet Island Region",
+    "time": "2026-10-24 15:24:20.7Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 15:19:24.5Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.7",
+    "region": "Philippine Islands Region",
+    "time": "2026-10-24 11:48:08.5Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.8",
+    "region": "Eastern Gulf of Aden",
+    "time": "2026-10-24 11:20:28.1Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 11:14:01.0Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "6.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 08:56:30.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.3",
+    "region": "Xizang",
+    "time": "2026-10-24 08:39:54.1Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.3",
+    "region": "Xizang",
+    "time": "2026-10-24 08:39:53.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.1",
+    "region": "Fox Islands, Aleutian Islands",
+    "time": "2026-10-24 08:33:45.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.1",
+    "region": "Fox Islands, Aleutian Islands",
+    "time": "2026-10-24 08:33:45.0Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.9",
+    "region": "Northern Xinjiang, China",
+    "time": "2026-10-24 08:29:20.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 08:28:02.5Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 08:22:47.5Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 08:22:45.7Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 06:52:04.2Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 06:52:02.4Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 06:43:08.8Z",
+    "depth": "163*"
+  },
+  {
+    "mag": "5.3",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 06:43:07.4Z",
+    "depth": "169*"
+  },
+  {
+    "mag": "5.3",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 06:04:17.3Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 06:04:16.5Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.8",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 05:23:41.5Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.8",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 05:23:41.3Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 04:49:20.9Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.3",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 04:19:39.1Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.9",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 04:12:05.9Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.9",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 04:12:05.7Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.8",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 04:05:37.3Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 03:51:34.4Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 03:17:55.1Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.3",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 03:08:44.7Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "6.3",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 02:35:57.7Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "7.0",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-24 02:31:29.7Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.6",
+    "region": "Xizang",
+    "time": "2026-10-24 00:07:57.3Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Southwestern Siberia, Russia",
+    "time": "2026-10-23 22:24:16.7Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-23 22:05:09.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "5.0",
+    "region": "Xizang",
+    "time": "2026-10-23 20:37:44.4Z",
+    "depth": "19*"
+  },
+  {
+    "mag": "4.6",
+    "region": "Myanmar-India Border Region",
+    "time": "2026-10-23 17:06:26.3Z",
+    "depth": "124*"
+  },
+  {
+    "mag": "5.3",
+    "region": "Near East Coast of Honshu, Japan",
+    "time": "2026-10-23 16:07:49.2Z",
+    "depth": "22*"
+  },
+  {
+    "mag": "4.5",
+    "region": "Sicily, Italy",
+    "time": "2026-10-23 15:32:12.8Z",
+    "depth": "10*"
+  },
+  {
+    "mag": "4.8",
+    "region": "Xizang",
+    "time": "2026-10-23 14:14:07.7Z",
+    "depth": "27*"
+  },
+  {
+    "mag": "5.2",
+    "region": "Sicily, Italy",
+    "time": "2026-10-23 13:55:36.6Z",
+    "depth": "10*"
+  },
+  {
     "mag": "5.6",
     "region": "Sicily, Italy",
     "time": "2026-10-23 10:19:17.5Z",
@@ -18,6 +450,18 @@
     "depth": "586*"
   },
   {
+    "mag": "4.9",
+    "region": "Vanuatu Islands",
+    "time": "2026-10-23 03:12:36.1Z",
+    "depth": "22*"
+  },
+  {
+    "mag": "4.5",
+    "region": "Southwestern Pakistan",
+    "time": "2026-10-22 23:26:52.2Z",
+    "depth": "83*"
+  },
+  {
     "mag": "4.6",
     "region": "Southwestern Pakistan",
     "time": "2026-10-22 23:26:51.9Z",
@@ -28,6 +472,12 @@
     "region": "Kuril Islands",
     "time": "2026-10-22 21:09:58.7Z",
     "depth": "48*"
+  },
+  {
+    "mag": "4.9",
+    "region": "Kuril Islands",
+    "time": "2026-10-22 21:09:58.5Z",
+    "depth": "46*"
   },
   {
     "mag": "4.9",
